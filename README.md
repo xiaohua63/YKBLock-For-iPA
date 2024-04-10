@@ -1,7 +1,7 @@
 # iOS网络验证
 iOSudid网络验证
 * Xcode
-* 一台可以用的服务器
+* 可以用的服务器
 ## 准备工作
 * 下载Xcode
 * Mac上下载POD环境theos
