@@ -2,6 +2,7 @@
 iOSudid网络验证
 * Xcode
 * 可以用的服务器
+* 演示站账号admin密码123456
 ## 准备工作
 * 下载Xcode
 * Mac上下载POD环境theos
